@@ -16,7 +16,7 @@ return new class extends Migration
             $table->string('name');
             $table->date('from');
             $table->date('to');
-            $table->float('total_budget', 8, 2)->comments('USD');
+            $table->float('total_budget', 8, 2);
             $table->float('daily_budget', 8, 2);
             $table->timestamps();
         });
