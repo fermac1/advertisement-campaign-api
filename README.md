@@ -1,1 +1,3 @@
-# advertisement-campaign-api
+- composer install
+
+- php artisan serve
