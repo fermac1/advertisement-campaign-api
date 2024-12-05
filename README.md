@@ -8,7 +8,7 @@
 
 ## Introduction
 
-A [Laravel](https://laravel.com) api for an advertisement campaign.
+A [Laravel](https://laravel.com) API for an advertisement campaign.
 
 ## Features
 
